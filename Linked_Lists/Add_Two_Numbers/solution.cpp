@@ -15,7 +15,6 @@ class Solution {
             ListNode* ptr_l2 = l2;
             ListNode* l3 = new ListNode(0);
             ListNode* ptr_l3 = l3;
-            int a,b;
             int sum;
             int c=0,d=0;
             while(ptr_l1 != nullptr || ptr_l2 != nullptr || c!=0){
