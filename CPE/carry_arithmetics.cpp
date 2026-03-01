@@ -17,13 +17,13 @@ int main(){
             b=b/10;
             }
             if (d==0){
-                cout<<"No carry operation";
+                cout<<"No carry operation.";
             }
             else if(d==1){
-                cout<<"1 carry operation";
+                cout<<"1 carry operation.";
             }
             else if(d>1){
-                cout<<d<<" carry operations";
+                cout<<d<<" carry operations.";
             }
             cout<<endl;
     }
