@@ -10,9 +10,8 @@ int main(){
         for(int i=0;i<a.size();i++){
             int digit = a[i]-'0';
             b=i%2?b-digit:b+digit;
-            b=abs(b);
         }
-        cout<<a<<" is "<<(b%11? "not " : "")<<"a multiple of 11."<<endl;
+        cout<<a<<" is "<<(abs(b)%11? "not " : "")<<"a multiple of 11."<<endl;
     }
     return 0;
 }
