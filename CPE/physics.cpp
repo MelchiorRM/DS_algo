@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 int main(){
-    long long a,b;
+    int a,b;
     while(cin>>a>>b){
-        cout<<(a>b?a-b:b-a)<<endl;
+        cout<<2*a*b<<endl;
     }
     return 0;
 }
