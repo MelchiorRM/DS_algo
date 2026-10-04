@@ -16,7 +16,7 @@ int main(){
         for(int i=0;i<N;i++){
             cin>>numbers[i];
         }
-         found.assign(N, false);
+        found.assign(N, false);
         for(int i=0;i<N-1;i++){
             result=abs(numbers[i]-numbers[i+1]);
             if(result < N && result >0){
