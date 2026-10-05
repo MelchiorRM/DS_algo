@@ -27,6 +27,7 @@ int main(){
                 cout<<base<<endl;
                 break;
             }
+            base++;
         }
     }
     return 0;
