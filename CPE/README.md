@@ -67,13 +67,14 @@ Problems are organized by difficulty (`easy/`, `medium/`) and then by category
 |---|---|
 | [UVa 12150 — Pole Position](https://onlinejudge.org/external/121/12150.pdf) | [medium/array/uva12150_pole_position.cpp](medium/array/uva12150_pole_position.cpp) |
 | [UVa 12356 — Army Buddies](https://onlinejudge.org/external/123/12356.pdf) | [medium/array/uva12356_army_buddies.cpp](medium/array/uva12356_army_buddies.cpp) |
+| [UVa 13181 — Sleeping in Hostels](https://onlinejudge.org/external/131/13181.pdf) | [medium/array/uva13181_sleeping_in_hostels.cpp](medium/array/uva13181_sleeping_in_hostels.cpp) |
 
 ### Control Flow
 
 | Problem | Solution |
 |---|---|
 | [UVa 10093 — An Easy Problem!](https://onlinejudge.org/external/100/10093.pdf) | [medium/control_flow/uva10093_an_easy_problem.cpp](medium/control_flow/uva10093_an_easy_problem.cpp) |
-| [UVa 10093 — An Easy Problem!](https://onlinejudge.org/external/100/10093.pdf) (duplicate attempt — has an infinite-loop bug) | [medium/control_flow/uva10093_an_easy_problem_buggy.cpp](medium/control_flow/uva10093_an_easy_problem_buggy.cpp) |
+| [UVa 10093 — An Easy Problem!](https://onlinejudge.org/external/100/10093.pdf) (alternate solution, Horner's rule under modulo) | [medium/control_flow/uva10093_an_easy_problem_2.cpp](medium/control_flow/uva10093_an_easy_problem_2.cpp) |
 | [UVa 490 — Rotating Sentences](https://onlinejudge.org/external/4/490.pdf) | [medium/control_flow/uva490_rotating_sentences.cpp](medium/control_flow/uva490_rotating_sentences.cpp) |
 
 ### Function
