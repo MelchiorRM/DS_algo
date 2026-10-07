@@ -69,6 +69,8 @@ Problems are organized by difficulty (`easy/`, `medium/`) and then by category
 | [UVa 12356 — Army Buddies](https://onlinejudge.org/external/123/12356.pdf) | [medium/array/uva12356_army_buddies.cpp](medium/array/uva12356_army_buddies.cpp) |
 | [UVa 13181 — Sleeping in Hostels](https://onlinejudge.org/external/131/13181.pdf) | [medium/array/uva13181_sleeping_in_hostels.cpp](medium/array/uva13181_sleeping_in_hostels.cpp) |
 | [Kattis — Balloons (baloni)](https://open.kattis.com/problems/baloni) | [medium/array/kattis_baloni.cpp](medium/array/kattis_baloni.cpp) |
+| [Kattis — Downtime](https://open.kattis.com/problems/downtime) | [medium/array/kattis_downtime.cpp](medium/array/kattis_downtime.cpp) |
+| [Kattis — Greedily Increasing Subsequence](https://open.kattis.com/problems/greedilyincreasingsubsequence) | [medium/array/kattis_greedily_increasing.cpp](medium/array/kattis_greedily_increasing.cpp) |
 
 ### Control Flow
 
