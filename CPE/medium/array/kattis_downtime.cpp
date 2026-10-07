@@ -14,9 +14,7 @@ int main(){
 
         for(int i=0;i<a;i++){
             auto it=lower_bound(time.begin()+i, time.begin()+a, time[i]+delay);
-            int j=distance(time.begin(), it)-1;
-
-            current=j-i+1;
+            current=distance(time.begin(), it)-i;
             maximum=max(maximum,current);
         }
         c=(maximum+b-1)/b;
