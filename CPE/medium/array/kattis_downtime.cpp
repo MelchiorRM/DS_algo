@@ -13,7 +13,7 @@ int main(){
         int current,maximum=0;
 
         for(int i=0;i<a;i++){
-            auto it=upper_bound(time.begin()+i, time.begin()+a, time[i]+delay);
+            auto it=lower_bound(time.begin()+i, time.begin()+a, time[i]+delay);
             int j=distance(time.begin(), it)-1;
 
             current=j-i+1;
